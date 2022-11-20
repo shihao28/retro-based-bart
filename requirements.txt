@@ -1,0 +1,11 @@
+datasets==2.7.0
+einops==0.6.0
+faiss-gpu==1.7.2
+fastBPE==0.1.0
+importlib-metadata==5.0.0
+retro-pytorch==0.3.8
+sacremoses==0.0.53
+subword-nmt==0.3.8
+-f https://download.pytorch.org/whl/cu116
+torch==1.13.0+cu116
+transformers==4.24.0

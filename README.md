@@ -8,7 +8,7 @@
 
 # Training:
 1. source venv/bin/activate
-2. Edit config.py
+2. edit config.py
 3. python3 train.py
 
 # Credit
